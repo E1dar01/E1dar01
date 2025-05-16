@@ -1,14 +1,22 @@
-<h1 align="center">Hey, I'm Eldar!</h1>
+
+<h1 align="center">Hey, I'm Eldar 👋</h1>
+<h3 align="center">Junior Backend Developer</h3>
 
 <p align="center">
-  Junior Backend Developer from Kyrgyzstan  
-  Passionate about clean code, learning, and building web apps with purpose.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F796&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+in+Education+Enthusiast;Building+Smart+Cities;Learning+Fast+%26+Dreaming+Big" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
-
+### 👨‍💻 About Me
 - 🔧 Beginner backend developer (Python & Django)
 - 🌍 Based in Razzakov, Batken Region
 - 🎓 Studying at ICT4Girls in Batken (2025)
@@ -18,7 +26,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Some My Projects
 
 #### [**SunnyKyrgyzstan**](https://github.com/E1dar01/SunnyKyrgyzstan)  
 **Tourism website for southern Kyrgyzstan**  
@@ -57,6 +65,7 @@ Answer questions in real-time and get instant feedback.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ---
 
 ### 📫 Contact Me
@@ -64,13 +73,24 @@ Answer questions in real-time and get instant feedback.
 - Email: akylbekoveldar01@gmail.com  
 - GitHub: [@E1dar01](https://github.com/E1dar01)  
 - LinkedIn: [eldar01](https://www.linkedin.com/in/eldar01)
+- Telegram: [@akylbekovsky08](https://t.me/akylbekovsky08)
+---
+
+> *“Building impactful tech for smarter cities, stronger communities, and better education.”*
+
+⭐ Feel free to star/fork my projects or connect — always open for collaboration!
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=E1dar01&show_icons=true&theme=tokyonight&hide_title=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1dar01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atambek07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atambek07&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
