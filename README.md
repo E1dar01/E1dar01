@@ -2,7 +2,7 @@
 <h3 align="center">Junior Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F796&center=true&vCenter=true&width=435&lines=Backend+Developer;Learning+Fast+%26+Dreaming+Big" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4713bidvyf65591pxcuwufyjqh0j1nen363voeo2tg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Typing SVG" />
 </p>
 
 <p align="center">
