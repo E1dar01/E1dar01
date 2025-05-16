@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Eldar 👋</h1>
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">Python|Backend</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4713bidvyf65591pxcuwufyjqh0j1nen363voeo2tg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Typing SVG" width="250"/>
