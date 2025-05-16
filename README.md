@@ -20,9 +20,30 @@
 
 ### 📌 Featured Projects
 
-- [**LevelUp**](https://github.com/E1dar01/LevelUp) — random challenges, points, user progress, and gamified learning  
-- [**SunnyKyrgyzstan**](https://github.com/E1dar01/SunnyKyrgyzstan) — tourism website for Batken: tours, hotels, and places to visit  
-- [**PureMoment**](https://www.instagram.com/puremoment) — motivational Instagram about nature and self-growth  
+#### [**SunnyKyrgyzstan**](https://github.com/E1dar01/SunnyKyrgyzstan)  
+**Tourism website for southern Kyrgyzstan**  
+Explore and book tours, hotels, and recreation spots in Batken.  
+**Stack:** Django, HTML/CSS, JavaScript  
+**Status:** Completed  
+**Keywords:** Tourism, Booking, Kyrgyzstan
+
+---
+
+#### [**LevelUp**](https://github.com/E1dar01/LevelUp)  
+**Gamified learning platform with random challenges**  
+Earn points, track your progress, and grow with daily tasks.  
+**Stack:** Django, JavaScript, PostgreSQL  
+**Status:** In Progress  
+**Keywords:** Challenges, Gamification, Self-growth
+
+---
+
+#### [**QuizApp**](https://github.com/E1dar01/QuizApp)  
+**Interactive quiz web app**  
+Answer questions in real-time and get instant feedback.  
+**Stack:** Django, JavaScript  
+**Status:** Prototype  
+**Keywords:** Quiz, Education, Interactivity
 
 ---
 
