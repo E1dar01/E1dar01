@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Eldar!</h1>
 
 <p align="center">
-  Backend Developer from Kyrgyzstan  
+  Junior Backend Developer from Kyrgyzstan  
   Passionate about clean code, learning, and building web apps with purpose.
 </p>
 
